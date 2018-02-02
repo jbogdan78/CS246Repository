@@ -1,2 +1,4 @@
 Hello
 I have edited this file.
+
+I am going to cause a merge conflict.
