@@ -1,4 +1,5 @@
 Hello
 I have edited this file.
 
-Something different
+I am going to cause a merge conflict.
+
