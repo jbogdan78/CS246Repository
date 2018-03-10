@@ -1,0 +1,4 @@
+Milestone #1 Expectations (basic design):
+- Be able to add kids, and objects etc.
+- Display lists 
+- Basic elements of design done in app whether in grids or rows organizing how it is displayed
